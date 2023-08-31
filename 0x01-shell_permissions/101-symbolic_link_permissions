@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp --no-dereherence vincent _hello
+chgrp --no-dereherence vincent staff _hello
