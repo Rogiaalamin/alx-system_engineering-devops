@@ -1,0 +1,2 @@
+#!/bin/bash
+chgrp --no-dereherence vincent _hello
