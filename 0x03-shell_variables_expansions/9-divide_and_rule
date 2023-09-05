@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(POWE/RDIVIDE())
+echo $((POWE/RDIVIDE))
